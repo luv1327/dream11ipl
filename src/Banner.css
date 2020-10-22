@@ -1,0 +1,16 @@
+.banner {
+    background-color: #C61D23;
+    height: 240px;
+    color : white;
+    display : grid;
+    place-items: center;
+    font-family: garamond;
+}
+
+.banner__title{
+
+    padding : 20px;
+    border-radius: 20px;
+    border-bottom: 2px solid white;
+
+}

@@ -1,0 +1,41 @@
+.team-name {
+    font-weight: bold
+}
+
+.matches {
+    padding :0;
+    border-radius : 20px;
+    margin-bottom : 5px;
+    border : 1px solid black;
+}
+
+.title {
+    text-align: center;
+    padding-top : 10px;
+}
+
+.divider {
+    width : 90%;
+    margin-left :15px;
+    border : 1px solid rgb(241, 9, 9)
+}
+
+.match-number {
+    background-color: black;
+    color : white;
+    padding : 5px;
+    text-align : center;
+    margin-top:-11px;
+    margin-bottom : 7px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 0px;
+}
+
+
+.match-number p {
+    margin-top : 6px;
+}
+
+.bottom {
+    padding: 20px;
+}
